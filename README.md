@@ -1,8 +1,10 @@
 # Laravel-FoodOS
 Food ordering system with laravel.
 this is a mini-food ordering system. Used for ordering food from any restuarant of your choice.
+
 About Laravel
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
+
 Simple, fast routing engine.
 Powerful dependency injection container.
 Multiple back-ends for session and cache storage.
